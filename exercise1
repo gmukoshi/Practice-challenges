@@ -1,0 +1,5 @@
+//My favourite quote
+function quote(){
+    console.log("An apple a day keeps the doctor away");
+  }
+  quote()

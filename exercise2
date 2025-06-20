@@ -1,0 +1,5 @@
+//My personal details
+  function personalDetails(){
+    console.log("My name is George and i am 36yrs old");
+  }
+  personalDetails()

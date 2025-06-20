@@ -1,0 +1,9 @@
+//Area of a rectangle
+  function rectangle(){
+    length=13;
+      width=7;
+        area =("Area of a rectangle = "  +  length*width+"square units");
+      console.log(area);
+  } 
+  rectangle()
+  
